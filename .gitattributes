@@ -1,0 +1,5 @@
+# Keep the Unix build script runnable on macOS/Linux, and never touch binary files.
+gradlew text eol=lf
+*.bat text eol=crlf
+*.jks binary
+*.jar binary

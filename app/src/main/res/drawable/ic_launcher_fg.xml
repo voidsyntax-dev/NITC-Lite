@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Rounded "N" monogram, kept inside the 72dp safe zone -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="7.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M42,66 L42,42 L60,66 L60,42" />
+    <!-- Amber full stop -->
+    <path
+        android:fillColor="#FFFFC857"
+        android:pathData="M64.6,66a3.9,3.9 0,1 0,7.8 0a3.9,3.9 0,1 0,-7.8 0z" />
+</vector>
